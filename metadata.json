@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Wall Maria Defense",
+  "description": "An interactive tool to find the longest defensible segment of Wall Maria against titan attacks. Users can input wall strengths and a minimum defense threshold, and the application will visualize the wall and highlight the longest consecutive segment that meets the requirement using a sliding window algorithm.",
+  "requestFramePermissions": []
+}
